@@ -1,3 +1,12 @@
+A personal portfolio website by Vincent Thong.
+
+Objective is to demostrate proficiency and proof of application/work of concepts learnt in the Generation Bootcamp.
+
+
+
+Credits to the materials that is sourced from- 
+
+
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -9,7 +18,7 @@ pager that combines some of the ideas I've played with over at Pixelarity with a
 sort of look. Hope you dig it :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+you can use for pretty much whatever. 
 
 (* = not included)
 
